@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Durga Prasad
 
-🚀 **Full-Stack Developer | AI & ML Enthusiast | Problem Solver**
+**Full-Stack Developer | AI & ML Enthusiast | Problem Solver**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Coding on a laptop" style="width: 100%; height: auto;"/>
@@ -74,22 +74,11 @@ I'm an undergraduate **Computer Science & Engineering** student passionate about
 ## 📂 Featured Projects
 
 - **[FutureDesk - College Predictor](https://futuredesk.netlify.app/)**
-  [🔗 GitHub Repo](https://github.com/jammudurgaprasad/Eapcet_College_Predictor)
-
-- **[Object Detection Web App](https://github.com/jammudurgaprasad/Object_Detection)**
-  [🔗 GitHub Repo](https://github.com/jammudurgaprasad/Object_Detection)
-
+- **[Object Detection Web App](https://jammudurgaprasad.github.io/Object_Detection/)**
 - **[To-Do Application](https://dptodoapp.netlify.app/)**
-  [🔗 GitHub Repo](https://github.com/jammudurgaprasad/Full-Stack-ToDo-App)
-
 - **[Weather App](https://dpsweatherapp.netlify.app/)**
-  [🔗 GitHub Repo](https://github.com/jammudurgaprasad/Weather_App)
-
 - **[Online Food Ordering System](https://jammudurgaprasad.pythonanywhere.com/)**
-  [🔗 GitHub Repo](https://github.com/jammudurgaprasad/project4)
-
-- **[E-Commerce Application](https://github.com/jammudurgaprasad/E-commerse)**
-  [🔗 GitHub Repo](https://github.com/jammudurgaprasad/E-commerse)
+- **[E-Commerce Application](https://grabzy-e-com-frontend.netlify.app/)**
 
 ---
 
