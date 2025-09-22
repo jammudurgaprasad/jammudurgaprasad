@@ -16,69 +16,51 @@ Beyond traditional web development, I have a deep interest in **AI and Machine L
 
 ## **Skills & Technologies**
 
-My technical toolkit is a mix of core programming languages, frameworks, and specialized tools for AI and ML. For a detailed breakdown, please visit the [Skills section on my portfolio](https://jdpsportfolio.netlify.app/#skills).
-
-<p align="center">
-  <img src="https://lottie.host/526605ea-5188-4a04-b9a0-2f7ecb205050/vUO5dex0vF.lottie" width="300" alt="Lottie animation of a person coding">
-</p>
+My technical toolkit is a mix of core programming languages, frameworks, and specialized tools for AI and ML.
 
 ### **Programming Languages**
-<p align="center">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/clanguage.png?raw=true" alt="C Language" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/python.png?raw=true" alt="Python" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/java.png?raw=true" alt="Java" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/javascript.jpeg?raw=true" alt="JavaScript" width="60" height="60">
-</p>
+* C
+* Python
+* Java
+* JavaScript
 
 ### **Frontend Development**
-<p align="center">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/html.png?raw=true" alt="HTML" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/css.png?raw=true" alt="CSS" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/React.png?raw=true" alt="React.js" width="60" height="60">
-</p>
+* HTML
+* CSS
+* React.js
 
 ### **Backend Development**
-<p align="center">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/nodejs.png?raw=true" alt="Node.js" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/express.png?raw=true" alt="Express.js" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/django.png?raw=true" alt="Django" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/spring.png?raw=true" alt="Spring" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/springboot.png?raw=true" alt="Spring Boot" width="60" height="60">
-</p>
+* Node.js
+* Express.js
+* Django
+* Spring 6
+* Spring Boot 3
 
 ### **Databases & Connectivity**
-<p align="center">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/sql.png?raw=true" alt="SQL" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/mysql.png?raw=true" alt="MySQL" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/mongodb.png?raw=true" alt="MongoDB" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/jdbc.png?raw=true" alt="JDBC" width="60" height="60">
-</p>
+* SQL
+* MySQL
+* MongoDB
+* JDBC
 
 ### **AI & Machine Learning**
-<p align="center">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/ai.jpg?raw=true" alt="AI" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/ml.png?raw=true" alt="ML" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/nlp.png?raw=true" alt="NLP" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/opencv.png?raw=true" alt="OpenCV" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/numpy.png?raw=true" alt="NumPy" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/pandas.png?raw=true" alt="Pandas" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/Matplotlib.png?raw=true" alt="Matplotlib" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/Scikit-learn.png?raw=true" alt="Scikit-learn" width="60" height="60">
-</p>
+* AI
+* ML
+* NLP
+* OpenCV
+* NumPy
+* Pandas
+* Matplotlib
+* scikit-learn
 
 ### **Tools & IDEs**
-<p align="center">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/git.png?raw=true" alt="Git" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/github.png?raw=true" alt="GitHub" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/Visual_Studio_Code.png?raw=true" alt="VS Code" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/NetBeans.png?raw=true" alt="NetBeans" width="60" height="60" style="margin-right: 15px;">
-  <img src="https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/intellijIdea.png?raw=true" alt="IntelliJ IDEA" width="60" height="60">
-</p>
+* Git
+* GitHub
+* VS Code
+* NetBeans
+* IntelliJ IDEA
 
 ### **Computer Science Fundamentals**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jammudurgaprasad/jammudurgaprasad/main/icons/dsa.png" alt="Data Structures and Algorithms" width="60" height="60">
-</p>
+* Data Structures and Algorithms (DSA)
 
 ---
 
