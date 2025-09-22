@@ -74,7 +74,6 @@ I'm an undergraduate **Computer Science & Engineering** student passionate about
 ## 📂 Featured Projects
 
 - **[FutureDesk - College Predictor](https://futuredesk.netlify.app/)**
-- **[Object Detection Web App](https://jammudurgaprasad.github.io/Object_Detection/)**
 - **[To-Do Application](https://dptodoapp.netlify.app/)**
 - **[Weather App](https://dpsweatherapp.netlify.app/)**
 - **[Online Food Ordering System](https://jammudurgaprasad.pythonanywhere.com/)**
