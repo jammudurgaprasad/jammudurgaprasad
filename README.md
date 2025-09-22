@@ -63,35 +63,30 @@ I'm an undergraduate **Computer Science & Engineering** student passionate about
 ## 📂 Featured Projects
 
 ### 🔹 [FutureDesk - College Predictor](https://futuredesk.netlify.app/)
-*React, Django, Pandas, REST API*  
-Predicts possible college admissions using historical cutoffs and user scores.  
+*React, Django, Pandas, REST API* Predicts possible college admissions using historical cutoffs and user scores.  
 [🔗 GitHub Repo](https://github.com/jammudurgaprasad/Eapcet_College_Predictor)
 
 ---
 
 ### 🔹 [Object Detection Web App](https://github.com/jammudurgaprasad/Object_Detection)  
-*React, Django, TensorFlow, OpenCV*  
-Full-stack ML-powered object detection with real-time classification.
+*React, Django, TensorFlow, OpenCV* Full-stack ML-powered object detection with real-time classification.
 
 ---
 
 ### 🔹 [To-Do Application](https://dptodoapp.netlify.app/)  
-*React, Node.js, MongoDB*  
-A full-stack productivity app with CRUD operations.  
+*React, Node.js, MongoDB* A full-stack productivity app with CRUD operations.  
 [🔗 GitHub Repo](https://github.com/jammudurgaprasad/Full-Stack-ToDo-App)
 
 ---
 
 ### 🔹 [Weather App](https://dpsweatherapp.netlify.app/)  
-*React.js*  
-Real-time weather updates powered by OpenWeather API.  
+*React.js* Real-time weather updates powered by OpenWeather API.  
 [🔗 GitHub Repo](https://github.com/jammudurgaprasad/Weather_App)
 
 ---
 
 ### 🔹 [Online Food Ordering System](https://jammudurgaprasad.pythonanywhere.com/)  
-*HTML, CSS, JS, Django, MySQL*  
-A complete platform for browsing menus and placing orders.  
+*HTML, CSS, JS, Django, MySQL* A complete platform for browsing menus and placing orders.  
 [🔗 GitHub Repo](https://github.com/jammudurgaprasad/project4)
 
 ---
@@ -107,9 +102,7 @@ A complete platform for browsing menus and placing orders.
 
 ## 💼 Internship Experience
 
-**AI-ML Virtual Internship | Google x AICTE x EduSkills (Apr 2025 – Jun 2025)**  
-- Developed a **full-stack object detection app** using **TensorFlow Hub, React, Django REST**  
-- Integrated **CNN models (SSD MobileNet v2)** for real-time predictions  
+**AI-ML Virtual Internship | Google x AICTE x EduSkills (Apr 2025 – Jun 2025)** - Developed a **full-stack object detection app** using **TensorFlow Hub, React, Django REST** - Integrated **CNN models (SSD MobileNet v2)** for real-time predictions  
 - Built **REST APIs** for image uploads & async operations  
 - Designed a **dynamic React UI** for real-time result rendering  
 
