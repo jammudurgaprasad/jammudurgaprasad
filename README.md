@@ -19,6 +19,10 @@ I'm an undergraduate **Computer Science & Engineering** student passionate about
 
 ## ⚡ Tech Stack & Skills
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Coding on a laptop" width="400"/>
+</p>
+
 <div align="center">
 
 ### Languages  
@@ -62,32 +66,25 @@ I'm an undergraduate **Computer Science & Engineering** student passionate about
 
 ## 📂 Featured Projects
 
-### 🔹 [FutureDesk - College Predictor](https://futuredesk.netlify.app/)
-*React, Django, Pandas, REST API* Predicts possible college admissions using historical cutoffs and user scores.  
-[🔗 GitHub Repo](https://github.com/jammudurgaprasad/Eapcet_College_Predictor)
+### **[FutureDesk - College Predictor](https://futuredesk.netlify.app/)** [🔗 GitHub Repo](https://github.com/jammudurgaprasad/Eapcet_College_Predictor)
 
 ---
 
-### 🔹 [Object Detection Web App](https://github.com/jammudurgaprasad/Object_Detection)  
-*React, Django, TensorFlow, OpenCV* Full-stack ML-powered object detection with real-time classification.
+### **[Object Detection Web App](https://github.com/jammudurgaprasad/Object_Detection)** ---
+
+### **[To-Do Application](https://dptodoapp.netlify.app/)** [🔗 GitHub Repo](https://github.com/jammudurgaprasad/Full-Stack-ToDo-App)
 
 ---
 
-### 🔹 [To-Do Application](https://dptodoapp.netlify.app/)  
-*React, Node.js, MongoDB* A full-stack productivity app with CRUD operations.  
-[🔗 GitHub Repo](https://github.com/jammudurgaprasad/Full-Stack-ToDo-App)
+### **[Weather App](https://dpsweatherapp.netlify.app/)** [🔗 GitHub Repo](https://github.com/jammudurgaprasad/Weather_App)
 
 ---
 
-### 🔹 [Weather App](https://dpsweatherapp.netlify.app/)  
-*React.js* Real-time weather updates powered by OpenWeather API.  
-[🔗 GitHub Repo](https://github.com/jammudurgaprasad/Weather_App)
+### **[Online Food Ordering System](https://jammudurgaprasad.pythonanywhere.com/)** [🔗 GitHub Repo](https://github.com/jammudurgaprasad/project4)
 
 ---
 
-### 🔹 [Online Food Ordering System](https://jammudurgaprasad.pythonanywhere.com/)  
-*HTML, CSS, JS, Django, MySQL* A complete platform for browsing menus and placing orders.  
-[🔗 GitHub Repo](https://github.com/jammudurgaprasad/project4)
+### **[E-Commerce Application](https://github.com/jammudurgaprasad/E-commerse)**
 
 ---
 
