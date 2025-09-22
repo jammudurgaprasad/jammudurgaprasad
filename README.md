@@ -3,7 +3,7 @@
 🚀 **Full-Stack Developer | AI & ML Enthusiast | Problem Solver**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Coding on a laptop" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Coding on a laptop"/>
 </p>
 
 <div align="center">
@@ -93,20 +93,18 @@ I'm an undergraduate **Computer Science & Engineering** student passionate about
 
 ## 🎓 Certifications
 
-- 📜 [Full Stack Developer Bootcamp (GeeksforGeeks)](https://www.linkedin.com/posts/jammudurgaprasad_full-stack-developer-bootcamp-master-frontend-activity-7344790448000929792-td2E)
-- 📜 [NPTEL - Data Structures & Algorithms using Java](https://www.linkedin.com/posts/jammudurgaprasad_nptel-learningjourney-datastructures-activity-7288578996412334080-YNhi)
-- 📜 [Python for Beginners (Scaler)](https://moonshot.scaler.com/s/sl/8NXzCuW2x2)
-- 📜 [JavaScript (Scaler)](https://moonshot.scaler.com/s/sl/M3YPETr0jK)
+- 📜 [Full Stack Developer Bootcamp (GeeksforGeeks)](https://www.linkedin.com/posts/jammudurgaprasad_full-stack-developer-bootcamp-master-frontend-activity-7344790448000929792-td2E)  
+- 📜 [NPTEL - Data Structures & Algorithms using Java](https://www.linkedin.com/posts/jammudurgaprasad_nptel-learningjourney-datastructures-activity-7288578996412334080-YNhi)  
+- 📜 [Python for Beginners (Scaler)](https://moonshot.scaler.com/s/sl/8NXzCuW2x2)  
+- 📜 [JavaScript (Scaler)](https://moonshot.scaler.com/s/sl/M3YPETr0jK)  
 
 ---
 
 ## 💼 Internship Experience
 
-**AI-ML Virtual Internship | Google x AICTE x EduSkills (Apr 2025 – Jun 2025)**
-- Developed a **full-stack object detection app** using **TensorFlow Hub, React, Django REST**
-- Integrated **CNN models (SSD MobileNet v2)** for real-time predictions
-- Built **REST APIs** for image uploads & async operations
-- Designed a **dynamic React UI** for real-time result rendering
+**AI-ML Virtual Internship | Google x AICTE x EduSkills (Apr 2025 – Jun 2025)** - Developed a **full-stack object detection app** using **TensorFlow Hub, React, Django REST** - Integrated **CNN models (SSD MobileNet v2)** for real-time predictions  
+- Built **REST APIs** for image uploads & async operations  
+- Designed a **dynamic React UI** for real-time result rendering  
 
 ---
 
@@ -114,7 +112,7 @@ I'm an undergraduate **Computer Science & Engineering** student passionate about
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jammudurgaprasad&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jammudurgaprasad&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jammudurgaprasad&layout=compact&theme=radical)
 
 </div>
