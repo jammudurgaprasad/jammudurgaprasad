@@ -163,56 +163,53 @@ Beyond traditional web development, I have a deep interest in **AI and Machine L
 
 My technical toolkit is a mix of core programming languages, frameworks, and specialized tools for AI and ML.
 
-!(https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/skills-collage.png?raw=true)
+<p align="center">
+  <img src="https://lottie.host/526605ea-5188-4a04-b9a0-2f7ecb205050/vUO5dex0vF.lottie" width="300" alt="Lottie animation of a person coding">
+</p>
 
 ### **Programming Languages**
-| Language | Icon |
-| :--- | :--- |
-| C | ![C Language Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/clanguage.png?raw=true) |
-| Python | ![Python Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/python.png?raw=true) |
-| Java | ![Java Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/java.png?raw=true) |
-| JavaScript | ![JavaScript Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/javascript.jpeg?raw=true) |
-| HTML | ![HTML Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/html.png?raw=true) |
-| CSS | ![CSS Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/css.png?raw=true) |
+<div align="center">
+  <img src="https://img.shields.io/badge/-C-5A84B4?style=for-the-badge&logo=c&logoColor=white" alt="C Language" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</div>
 
 ### **Frameworks & Libraries**
-| Technology | Icon |
-| :--- | :--- |
-| React.js | ![React Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/React.png?raw=true) |
-| Node.js | ![Node.js Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/nodejs.png?raw=true) |
-| Express.js | ![Express.js Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/express.png?raw=true) |
-| Django | ![Django Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/django.png?raw=true) |
-| Spring 6 | ![Spring Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/spring.png?raw=true) |
-| Spring Boot 3 | ![Spring Boot Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/springboot.png?raw=true) |
+<div align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+</div>
 
 ### **AI/ML**
-| Technology | Icon |
-| :--- | :--- |
-| AI | ![AI Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/ai.jpg?raw=true) |
-| ML | ![ML Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/ml.png?raw=true) |
-| NLP | ![NLP Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/nlp.png?raw=true) |
-| OpenCV | ![OpenCV Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/opencv.png?raw=true) |
-| NumPy | ![NumPy Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/numpy.png?raw=true) |
-| Pandas | ![Pandas Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/pandas.png?raw=true) |
-| Matplotlib | ![Matplotlib Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/Matplotlib.png?raw=true) |
-| Scikit-learn | ![Scikit-learn Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/Scikit-learn.png?raw=true) |
+<div align="center">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+</div>
 
 ### **Databases**
-| Database | Icon |
-| :--- | :--- |
-| SQL | ![SQL Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/sql.png?raw=true) |
-| MySQL | ![MySQL Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/mysql.png?raw=true) |
-| MongoDB | ![MongoDB Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/mongodb.png?raw=true) |
-| JDBC | ![JDBC Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/jdbc.png?raw=true) |
+<div align="center">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</div>
 
 ### **Tools & Platforms**
-| Tool | Icon |
-| :--- | :--- |
-| Git | ![Git Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/git.png?raw=true) |
-| GitHub | ![GitHub Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/github.png?raw=true) |
-| VS Code | ![VS Code Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/Visual_Studio_Code.png?raw=true) |
-| NetBeans | ![NetBeans Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/NetBeans.png?raw=true) |
-| IntelliJ IDEA | ![IntelliJ IDEA Icon](https://github.com/jammudurgaprasad/jammudurgaprasad/blob/main/icons/intellijIdea.png?raw=true) |
+<div align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+</div>
 
 ---
 
