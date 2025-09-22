@@ -70,7 +70,6 @@ I'm an undergraduate **Computer Science & Engineering** student passionate about
 
 ---
 
-### **[Object Detection Web App](https://github.com/jammudurgaprasad/Object_Detection)** ---
 
 ### **[To-Do Application](https://dptodoapp.netlify.app/)** [🔗 GitHub Repo](https://github.com/jammudurgaprasad/Full-Stack-ToDo-App)
 
@@ -81,10 +80,6 @@ I'm an undergraduate **Computer Science & Engineering** student passionate about
 ---
 
 ### **[Online Food Ordering System](https://jammudurgaprasad.pythonanywhere.com/)** [🔗 GitHub Repo](https://github.com/jammudurgaprasad/project4)
-
----
-
-### **[E-Commerce Application](https://github.com/jammudurgaprasad/E-commerse)**
 
 ---
 
